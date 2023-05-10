@@ -1,0 +1,2 @@
+Practicing mor and more GIT commands
+GIT is one of the most popular VCS of the world 
