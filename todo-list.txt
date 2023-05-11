@@ -1,2 +1,5 @@
 Practicing mor and more GIT commands
-GIT is one of the most popular VCS of the world 
+GIT is one of the most popular VCS of the world
+Opening Files with VScode
+Updating files with VScode
+Practicing matching Github and my local Git
